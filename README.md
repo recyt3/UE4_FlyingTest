@@ -15,3 +15,7 @@
 # 実装項目
 - FlyingPawnのサンプルを改造
 - ユーザーWidgetを追加して、座標とスピードを表示
+
+# ScreenShot
+![SS1](https://github.com/recyt3/UE4_FlyingTest/blob/master/docs/WS000000.JPG)
+![SS1](https://github.com/recyt3/UE4_FlyingTest/blob/master/docs/WS000001.JPG)
