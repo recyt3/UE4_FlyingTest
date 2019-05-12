@@ -19,3 +19,6 @@
 # ScreenShot
 ![SS1](https://github.com/recyt3/UE4_FlyingTest/blob/master/docs/WS000000.JPG)
 ![SS1](https://github.com/recyt3/UE4_FlyingTest/blob/master/docs/WS000001.JPG)
+
+# 実行ファイル
+https://github.com/recyt3/UE4_FlyingTest/releases/download/rel/Win64.zip
